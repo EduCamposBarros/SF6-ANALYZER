@@ -1,0 +1,107 @@
+{
+  "counts": {
+    "whiffs": 11,
+    "punishable_jumps": 0
+  },
+  "rows": [
+    {
+      "type": "whiff_punish",
+      "player": "p1",
+      "start_frame": 10,
+      "end_frame": 41,
+      "punishable": false,
+      "start_time": 0.16653915122534368,
+      "end_time": 0.6828105200239092
+    },
+    {
+      "type": "whiff_punish",
+      "player": "p1",
+      "start_frame": 42,
+      "end_frame": 73,
+      "punishable": false,
+      "start_time": 0.6994644351464435,
+      "end_time": 1.215735803945009
+    },
+    {
+      "type": "whiff_punish",
+      "player": "p1",
+      "start_frame": 74,
+      "end_frame": 105,
+      "punishable": false,
+      "start_time": 1.2323897190675432,
+      "end_time": 1.7486610878661089
+    },
+    {
+      "type": "whiff_punish",
+      "player": "p2",
+      "start_frame": 430,
+      "end_frame": 461,
+      "punishable": false,
+      "start_time": 7.161183502689779,
+      "end_time": 7.677454871488345
+    },
+    {
+      "type": "whiff_punish",
+      "player": "p1",
+      "start_frame": 667,
+      "end_frame": 857,
+      "punishable": true,
+      "start_time": 11.108161386730425,
+      "end_time": 14.272405260011954
+    },
+    {
+      "type": "whiff_punish",
+      "player": "p1",
+      "start_frame": 863,
+      "end_frame": 965,
+      "punishable": false,
+      "start_time": 14.37232875074716,
+      "end_time": 16.071028093245666
+    },
+    {
+      "type": "whiff_punish",
+      "player": "p1",
+      "start_frame": 970,
+      "end_frame": 1014,
+      "punishable": false,
+      "start_time": 16.154297668858337,
+      "end_time": 16.88706993424985
+    },
+    {
+      "type": "whiff_punish",
+      "player": "p1",
+      "start_frame": 1015,
+      "end_frame": 1046,
+      "punishable": false,
+      "start_time": 16.903723849372383,
+      "end_time": 17.41999521817095
+    },
+    {
+      "type": "whiff_punish",
+      "player": "p1",
+      "start_frame": 1047,
+      "end_frame": 1088,
+      "punishable": false,
+      "start_time": 17.436649133293486,
+      "end_time": 18.119459653317392
+    },
+    {
+      "type": "whiff_punish",
+      "player": "p1",
+      "start_frame": 1089,
+      "end_frame": 1120,
+      "punishable": false,
+      "start_time": 18.136113568439928,
+      "end_time": 18.652384937238494
+    },
+    {
+      "type": "whiff_punish",
+      "player": "p1",
+      "start_frame": 1630,
+      "end_frame": 1661,
+      "punishable": false,
+      "start_time": 27.14588164973102,
+      "end_time": 27.662153018529587
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "segment_seconds": 15,
+  "segments": [
+    {
+      "segment_index": 0,
+      "start_time": 0,
+      "end_time": 15,
+      "total_opportunities": 6,
+      "whiffs": 6,
+      "whiff_punishable": 1,
+      "punishable_jumps": 0
+    },
+    {
+      "segment_index": 1,
+      "start_time": 15,
+      "end_time": 30,
+      "total_opportunities": 5,
+      "whiffs": 5,
+      "whiff_punishable": 0,
+      "punishable_jumps": 0
+    }
+  ]
+}

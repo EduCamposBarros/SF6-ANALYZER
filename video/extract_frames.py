@@ -1,6 +1,7 @@
 import cv2
 import os
 
+
 def extract_frames(video_path, output_dir, fps=60):
     """
     Extrai frames do vídeo na taxa desejada.

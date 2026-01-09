@@ -1,0 +1,32 @@
+{
+  "total_frames": 300,
+  "hits_detected": 76,
+  "results": [
+    {
+      "config": {
+        "area_t": 15000,
+        "area_fb": 2500,
+        "mean_c": 30,
+        "jump_delta": 0.04,
+        "drive_factor": 0.08,
+        "motion_thresh": 1.5
+      },
+      "coverage": 1.0,
+      "attack_rate": 1.0,
+      "score": 0.4
+    },
+    {
+      "config": {
+        "area_t": 15000,
+        "area_fb": 2500,
+        "mean_c": 30,
+        "jump_delta": 0.04,
+        "drive_factor": 0.08,
+        "motion_thresh": 3.0
+      },
+      "coverage": 1.0,
+      "attack_rate": 1.0,
+      "score": 0.4
+    }
+  ]
+}

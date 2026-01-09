@@ -1,6 +1,2618 @@
 {
-  "frame_data": [],
+  "frame_data": {
+    "windows": [
+      {
+        "attacker": "p1",
+        "start": 5,
+        "end": 7,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p2",
+        "start": 1,
+        "end": 7,
+        "on_block_adv": 6
+      },
+      {
+        "attacker": "p1",
+        "start": 8,
+        "end": 9,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p2",
+        "start": 8,
+        "end": 9,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p1",
+        "start": 10,
+        "end": 11,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p2",
+        "start": 10,
+        "end": 11,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p1",
+        "start": 12,
+        "end": 34,
+        "on_block_adv": -21
+      },
+      {
+        "attacker": "p2",
+        "start": 12,
+        "end": 34,
+        "on_block_adv": 21
+      },
+      {
+        "attacker": "p2",
+        "start": 39,
+        "end": 61,
+        "on_block_adv": 22
+      },
+      {
+        "attacker": "p2",
+        "start": 64,
+        "end": 87,
+        "on_block_adv": 23
+      },
+      {
+        "attacker": "p1",
+        "start": 92,
+        "end": 123,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p1",
+        "start": 124,
+        "end": 164,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 91,
+        "end": 222,
+        "on_block_adv": 131
+      },
+      {
+        "attacker": "p1",
+        "start": 174,
+        "end": 224,
+        "on_block_adv": 2
+      },
+      {
+        "attacker": "p2",
+        "start": 227,
+        "end": 258,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 259,
+        "end": 290,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 296,
+        "end": 341,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p1",
+        "start": 227,
+        "end": 387,
+        "on_block_adv": 134
+      },
+      {
+        "attacker": "p2",
+        "start": 369,
+        "end": 387,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p1",
+        "start": 388,
+        "end": 389,
+        "on_block_adv": 1
+      },
+      {
+        "attacker": "p2",
+        "start": 443,
+        "end": 474,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p1",
+        "start": 434,
+        "end": 504,
+        "on_block_adv": 70
+      },
+      {
+        "attacker": "p1",
+        "start": 506,
+        "end": 512,
+        "on_block_adv": -5
+      },
+      {
+        "attacker": "p2",
+        "start": 475,
+        "end": 512,
+        "on_block_adv": 8
+      },
+      {
+        "attacker": "p1",
+        "start": 513,
+        "end": 553,
+        "on_block_adv": 40
+      },
+      {
+        "attacker": "p1",
+        "start": 562,
+        "end": 593,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p1",
+        "start": 597,
+        "end": 614,
+        "on_block_adv": -13
+      },
+      {
+        "attacker": "p2",
+        "start": 520,
+        "end": 614,
+        "on_block_adv": 61
+      },
+      {
+        "attacker": "p2",
+        "start": 615,
+        "end": 616,
+        "on_block_adv": 1
+      },
+      {
+        "attacker": "p1",
+        "start": 623,
+        "end": 624,
+        "on_block_adv": 1
+      },
+      {
+        "attacker": "p1",
+        "start": 625,
+        "end": 633,
+        "on_block_adv": -4
+      },
+      {
+        "attacker": "p2",
+        "start": 624,
+        "end": 633,
+        "on_block_adv": 9
+      },
+      {
+        "attacker": "p1",
+        "start": 639,
+        "end": 645,
+        "on_block_adv": -2
+      },
+      {
+        "attacker": "p2",
+        "start": 636,
+        "end": 645,
+        "on_block_adv": 9
+      },
+      {
+        "attacker": "p2",
+        "start": 649,
+        "end": 650,
+        "on_block_adv": 1
+      },
+      {
+        "attacker": "p1",
+        "start": 655,
+        "end": 663,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p2",
+        "start": 651,
+        "end": 663,
+        "on_block_adv": 12
+      },
+      {
+        "attacker": "p1",
+        "start": 670,
+        "end": 701,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p1",
+        "start": 702,
+        "end": 730,
+        "on_block_adv": -26
+      },
+      {
+        "attacker": "p2",
+        "start": 667,
+        "end": 730,
+        "on_block_adv": 63
+      },
+      {
+        "attacker": "p1",
+        "start": 731,
+        "end": 746,
+        "on_block_adv": 15
+      },
+      {
+        "attacker": "p1",
+        "start": 747,
+        "end": 758,
+        "on_block_adv": -9
+      },
+      {
+        "attacker": "p2",
+        "start": 732,
+        "end": 758,
+        "on_block_adv": 12
+      },
+      {
+        "attacker": "p1",
+        "start": 768,
+        "end": 799,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p1",
+        "start": 801,
+        "end": 835,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 759,
+        "end": 857,
+        "on_block_adv": 98
+      },
+      {
+        "attacker": "p1",
+        "start": 887,
+        "end": 918,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 863,
+        "end": 965,
+        "on_block_adv": 102
+      },
+      {
+        "attacker": "p1",
+        "start": 983,
+        "end": 1013,
+        "on_block_adv": -14
+      },
+      {
+        "attacker": "p2",
+        "start": 970,
+        "end": 1013,
+        "on_block_adv": 43
+      },
+      {
+        "attacker": "p2",
+        "start": 1015,
+        "end": 1023,
+        "on_block_adv": 8
+      },
+      {
+        "attacker": "p2",
+        "start": 1025,
+        "end": 1034,
+        "on_block_adv": 9
+      },
+      {
+        "attacker": "p2",
+        "start": 1037,
+        "end": 1088,
+        "on_block_adv": 51
+      },
+      {
+        "attacker": "p2",
+        "start": 1089,
+        "end": 1092,
+        "on_block_adv": 3
+      },
+      {
+        "attacker": "p2",
+        "start": 1093,
+        "end": 1094,
+        "on_block_adv": 1
+      },
+      {
+        "attacker": "p2",
+        "start": 1095,
+        "end": 1099,
+        "on_block_adv": 4
+      },
+      {
+        "attacker": "p1",
+        "start": 1098,
+        "end": 1112,
+        "on_block_adv": 13
+      },
+      {
+        "attacker": "p2",
+        "start": 1100,
+        "end": 1114,
+        "on_block_adv": 2
+      },
+      {
+        "attacker": "p2",
+        "start": 1118,
+        "end": 1125,
+        "on_block_adv": 7
+      },
+      {
+        "attacker": "p2",
+        "start": 1127,
+        "end": 1128,
+        "on_block_adv": 1
+      },
+      {
+        "attacker": "p1",
+        "start": 1153,
+        "end": 1157,
+        "on_block_adv": 4
+      },
+      {
+        "attacker": "p2",
+        "start": 1156,
+        "end": 1161,
+        "on_block_adv": 4
+      },
+      {
+        "attacker": "p1",
+        "start": 1160,
+        "end": 1164,
+        "on_block_adv": 3
+      },
+      {
+        "attacker": "p1",
+        "start": 1168,
+        "end": 1199,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p1",
+        "start": 1200,
+        "end": 1222,
+        "on_block_adv": -20
+      },
+      {
+        "attacker": "p2",
+        "start": 1168,
+        "end": 1222,
+        "on_block_adv": 53
+      },
+      {
+        "attacker": "p1",
+        "start": 1230,
+        "end": 1261,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": true
+      },
+      {
+        "attacker": "p1",
+        "start": 1262,
+        "end": 1263,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p2",
+        "start": 1227,
+        "end": 1263,
+        "on_block_adv": 36
+      },
+      {
+        "attacker": "p1",
+        "start": 1264,
+        "end": 1265,
+        "on_block_adv": 1
+      },
+      {
+        "attacker": "p2",
+        "start": 1269,
+        "end": 1300,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p1",
+        "start": 1269,
+        "end": 1323,
+        "on_block_adv": 30
+      },
+      {
+        "attacker": "p1",
+        "start": 1324,
+        "end": 1332,
+        "on_block_adv": -7
+      },
+      {
+        "attacker": "p2",
+        "start": 1301,
+        "end": 1332,
+        "on_block_adv": 9
+      },
+      {
+        "attacker": "p1",
+        "start": 1335,
+        "end": 1337,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p2",
+        "start": 1335,
+        "end": 1337,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p1",
+        "start": 1338,
+        "end": 1339,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p2",
+        "start": 1338,
+        "end": 1339,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p1",
+        "start": 1341,
+        "end": 1356,
+        "on_block_adv": 9
+      },
+      {
+        "attacker": "p2",
+        "start": 1341,
+        "end": 1356,
+        "on_block_adv": -9
+      },
+      {
+        "attacker": "p2",
+        "start": 1359,
+        "end": 1364,
+        "on_block_adv": 5
+      },
+      {
+        "attacker": "p1",
+        "start": 1396,
+        "end": 1427,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p1",
+        "start": 1428,
+        "end": 1459,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p1",
+        "start": 1460,
+        "end": 1490,
+        "on_block_adv": -2
+      },
+      {
+        "attacker": "p2",
+        "start": 1396,
+        "end": 1490,
+        "on_block_adv": 91
+      },
+      {
+        "attacker": "p1",
+        "start": 1634,
+        "end": 1636,
+        "on_block_adv": 2
+      },
+      {
+        "attacker": "p1",
+        "start": 1645,
+        "end": 1647,
+        "on_block_adv": -1
+      },
+      {
+        "attacker": "p2",
+        "start": 1645,
+        "end": 1647,
+        "on_block_adv": 1
+      },
+      {
+        "attacker": "p2",
+        "start": 1652,
+        "end": 1655,
+        "on_block_adv": 3
+      },
+      {
+        "attacker": "p1",
+        "start": 6,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p1",
+        "start": 18,
+        "on_block_adv": -15
+      },
+      {
+        "attacker": "p1",
+        "start": 20,
+        "on_block_adv": -13
+      },
+      {
+        "attacker": "p1",
+        "start": 22,
+        "on_block_adv": -11
+      },
+      {
+        "attacker": "p1",
+        "start": 24,
+        "on_block_adv": -8
+      },
+      {
+        "attacker": "p1",
+        "start": 25,
+        "on_block_adv": -8
+      },
+      {
+        "attacker": "p1",
+        "start": 27,
+        "on_block_adv": -6
+      },
+      {
+        "attacker": "p1",
+        "start": 509,
+        "on_block_adv": 41
+      },
+      {
+        "attacker": "p1",
+        "start": 585,
+        "on_block_adv": -27
+      },
+      {
+        "attacker": "p1",
+        "start": 591,
+        "on_block_adv": -20
+      },
+      {
+        "attacker": "p1",
+        "start": 694,
+        "on_block_adv": -26
+      },
+      {
+        "attacker": "p1",
+        "start": 713,
+        "on_block_adv": -9
+      },
+      {
+        "attacker": "p1",
+        "start": 722,
+        "on_block_adv": 16
+      },
+      {
+        "attacker": "p1",
+        "start": 751,
+        "on_block_adv": -3
+      },
+      {
+        "attacker": "p1",
+        "start": 756,
+        "on_block_adv": -1
+      },
+      {
+        "attacker": "p1",
+        "start": 1000,
+        "on_block_adv": -12
+      },
+      {
+        "attacker": "p1",
+        "start": 1006,
+        "on_block_adv": 1
+      },
+      {
+        "attacker": "p1",
+        "start": 1198,
+        "on_block_adv": -20
+      },
+      {
+        "attacker": "p1",
+        "start": 1214,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p1",
+        "start": 1247,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p1",
+        "start": 1401,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p1",
+        "start": 1424,
+        "on_block_adv": 0
+      },
+      {
+        "attacker": "p1",
+        "start": 1455,
+        "on_block_adv": -2
+      },
+      {
+        "attacker": "p1",
+        "start": 1489,
+        "on_block_adv": 0
+      }
+    ],
+    "summary": {
+      "plus_on_block": 51,
+      "minus_on_block": 28,
+      "avg_on_block": 10.092783505154639,
+      "punishable_jumps": [],
+      "drive_impacts": [],
+      "whiff_punishes": [
+        {
+          "attacker": "p1",
+          "start": 92,
+          "end": 123,
+          "punishable": false
+        },
+        {
+          "attacker": "p1",
+          "start": 124,
+          "end": 164,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
+          "start": 227,
+          "end": 258,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
+          "start": 259,
+          "end": 290,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
+          "start": 296,
+          "end": 341,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
+          "start": 443,
+          "end": 474,
+          "punishable": false
+        },
+        {
+          "attacker": "p1",
+          "start": 562,
+          "end": 593,
+          "punishable": false
+        },
+        {
+          "attacker": "p1",
+          "start": 670,
+          "end": 701,
+          "punishable": false
+        },
+        {
+          "attacker": "p1",
+          "start": 768,
+          "end": 799,
+          "punishable": false
+        },
+        {
+          "attacker": "p1",
+          "start": 801,
+          "end": 835,
+          "punishable": false
+        },
+        {
+          "attacker": "p1",
+          "start": 887,
+          "end": 918,
+          "punishable": false
+        },
+        {
+          "attacker": "p1",
+          "start": 1168,
+          "end": 1199,
+          "punishable": false
+        },
+        {
+          "attacker": "p1",
+          "start": 1230,
+          "end": 1261,
+          "punishable": true
+        },
+        {
+          "attacker": "p2",
+          "start": 1269,
+          "end": 1300,
+          "punishable": false
+        },
+        {
+          "attacker": "p1",
+          "start": 1396,
+          "end": 1427,
+          "punishable": false
+        },
+        {
+          "attacker": "p1",
+          "start": 1428,
+          "end": 1459,
+          "punishable": false
+        }
+      ]
+    }
+  },
   "insights": [
-    "Nenhuma troca v\u00e1lida detectada para an\u00e1lise de frame data."
+    "Detectados 1 whiff punish poss\u00edveis \u2014 pratique punir recovery de ataques perdidos."
+  ],
+  "events": [
+    {
+      "type": "attack_start",
+      "frame_id": 5,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "hit",
+      "frame_id": 5,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "hit",
+      "frame_id": 6,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 8,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "hit",
+      "frame_id": 8,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 10,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "hit",
+      "frame_id": 10,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 12,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "hit",
+      "frame_id": 12,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 18,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "hit",
+      "frame_id": 18,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 20,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "hit",
+      "frame_id": 20,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 22,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "hit",
+      "frame_id": 22,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 24,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "hit",
+      "frame_id": 24,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "hit",
+      "frame_id": 25,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 27,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 92,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 124,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 174,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 227,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 388,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 434,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 506,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 509,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 562,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 585,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 591,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 597,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 623,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 625,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 639,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 655,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 670,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 694,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 713,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 722,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 747,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 751,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 756,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 768,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 801,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 887,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 983,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1000,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1006,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1098,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1153,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1160,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1168,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1198,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1214,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1230,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1247,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1264,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1269,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1324,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1335,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1338,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1341,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1396,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1401,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1424,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1455,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1489,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1634,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 1645,
+      "attacker": "P1",
+      "defender": null
+    }
+  ],
+  "debug_timeline": [
+    {
+      "frame_id": 0,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 1,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 2,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 3,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 4,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 5,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 6,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 7,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 8,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 9,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 10,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 11,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 12,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 13,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 14,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 15,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 16,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 17,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 18,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 19,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 20,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 21,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 22,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 23,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 24,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 25,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 26,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 27,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 28,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 29,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 30,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 31,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 32,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 33,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 34,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 35,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 36,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 37,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 38,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 39,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 40,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 41,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 42,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 43,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 44,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 45,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 46,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 47,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 48,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 49,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 50,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 51,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 52,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 53,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 54,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 55,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 56,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 57,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 58,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 59,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 60,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 61,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 62,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 63,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 64,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 65,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 66,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 67,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 68,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 69,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 70,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 71,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 72,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 73,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 74,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 75,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 76,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 77,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 78,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 79,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 80,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 81,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 82,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 83,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 84,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 85,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 86,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 87,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 88,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 89,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 90,
+      "p1_state": "neutral",
+      "p2_state": "neutral",
+      "p1_can_act": true,
+      "p2_can_act": true
+    },
+    {
+      "frame_id": 91,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 92,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 93,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 94,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 95,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 96,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 97,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 98,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 99,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 100,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 101,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 102,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 103,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 104,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 105,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 106,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 107,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 108,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 109,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 110,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 111,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 112,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 113,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 114,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 115,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 116,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 117,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 118,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 119,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 120,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 121,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 122,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 123,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 124,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 125,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 126,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 127,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 128,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 129,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 130,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 131,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 132,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 133,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 134,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 135,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 136,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 137,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 138,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 139,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 140,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 141,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 142,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 143,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 144,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 145,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 146,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 147,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 148,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 149,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 150,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 151,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 152,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 153,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 154,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 155,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 156,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 157,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 158,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 159,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 160,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 161,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 162,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 163,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 164,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 165,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 166,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 167,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 168,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 169,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 170,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 171,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 172,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 173,
+      "p1_state": "neutral",
+      "p2_state": "attack_active",
+      "p1_can_act": true,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 174,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 175,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 176,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 177,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 178,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 179,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 180,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 181,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 182,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 183,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 184,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 185,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 186,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 187,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 188,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 189,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 190,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 191,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 192,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 193,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 194,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 195,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 196,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 197,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 198,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    },
+    {
+      "frame_id": 199,
+      "p1_state": "attack_active",
+      "p2_state": "attack_active",
+      "p1_can_act": false,
+      "p2_can_act": false
+    }
   ]
 }
