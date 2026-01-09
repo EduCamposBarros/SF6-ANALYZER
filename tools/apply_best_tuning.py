@@ -5,10 +5,11 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 REPORT = os.path.join(ROOT, "output", "tuning_report.json")
 OUT = os.path.join(ROOT, "vision", "tuned_state_config.py")
 
+
 def main():
-    """
-    Lê `output/tuning_report.json` e persiste a melhor configuração em
-    `vision/tuned_state_config.py` para uso posterior pelo detector.
+    """Lê `output/tuning_report.json` e persiste a configuração top em PT-BR.
+
+    Gera `vision/tuned_state_config.py` com a função `get_default_config()`.
     """
 
     if not os.path.exists(REPORT):
@@ -37,16 +38,12 @@ def main():
         f.write("# Auto-generated tuned state detector config\n")
         f.write("from vision.state_detection import StateDetectorConfig\n\n")
         f.write("def get_default_config():\n")
-        f.write("    return StateDetectorConfig(\\n")
+        f.write("    return StateDetectorConfig(\n")
         for k, v in mapping.items():
             if v is None:
                 continue
-            # write numeric value (float or int)
-            if isinstance(v, float):
-                f.write(f"        {k}={v},\\n")
-            else:
-                f.write(f"        {k}={v},\\n")
-        f.write("    )\\n")
+            f.write(f"        {k}={v},\n")
+        f.write("    )\n")
 
     print("Wrote tuned config to", OUT)
 

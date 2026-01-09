@@ -1,3 +1,13 @@
+"""Tuner leve para o detector de estado.
+
+Este script realiza uma varredura (grid search) sobre parâmetros de
+pré-processamento de efeitos visuais e parâmetros heurísticos do detector
+de estado. Produz um relatório em `output/tuning_report.json` com os
+melhores candidatos ordenados por `score`.
+
+Uso rápido: execute `python tools/tune_state_detection.py`.
+"""
+
 import json
 import itertools
 import os
