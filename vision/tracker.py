@@ -29,8 +29,15 @@ class TrackerManager:
 
     def initialize(self, frame, p1_bbox, p2_bbox):
         """Inicializa trackers para ambos os jogadores com as bboxes (x,y,w,h)."""
+        # Expect incoming bboxes in (x1,y1,x2,y2) format; convert to (x,y,w,h) for tracker
+        def to_xywh(b):
+            if b is None:
+                return None
+            x1, y1, x2, y2 = map(int, b)
+            return (x1, y1, max(4, x2 - x1), max(4, y2 - y1))
+
         if self._create is None:
-            # tracker não disponível
+            # tracker não disponível: store last_bboxes as xyxy
             self.trackers = {"p1": None, "p2": None}
             self.last_bboxes = {"p1": p1_bbox, "p2": p2_bbox}
             return
@@ -38,10 +45,15 @@ class TrackerManager:
         try:
             t1 = self._create()
             t2 = self._create()
-            t1.init(frame, tuple(map(int, p1_bbox)))
-            t2.init(frame, tuple(map(int, p2_bbox)))
+            p1_xywh = to_xywh(p1_bbox)
+            p2_xywh = to_xywh(p2_bbox)
+            if p1_xywh:
+                t1.init(frame, tuple(map(int, p1_xywh)))
+            if p2_xywh:
+                t2.init(frame, tuple(map(int, p2_xywh)))
             self.trackers["p1"] = t1
             self.trackers["p2"] = t2
+            # store last_bboxes in xyxy format
             self.last_bboxes["p1"] = p1_bbox
             self.last_bboxes["p2"] = p2_bbox
         except Exception:
@@ -59,7 +71,9 @@ class TrackerManager:
             if t1 is not None:
                 ok, box = t1.update(frame)
                 if ok:
-                    out1 = tuple(map(int, box))
+                    # box is (x,y,w,h) from tracker -> convert to xyxy
+                    bx, by, bw, bh = map(int, box)
+                    out1 = (bx, by, bx + bw, by + bh)
                     self.last_bboxes["p1"] = out1
                     self._fail_counts["p1"] = 0
                 else:
@@ -70,7 +84,8 @@ class TrackerManager:
             if t2 is not None:
                 ok2, box2 = t2.update(frame)
                 if ok2:
-                    out2 = tuple(map(int, box2))
+                    bx2, by2, bw2, bh2 = map(int, box2)
+                    out2 = (bx2, by2, bx2 + bw2, by2 + bh2)
                     self.last_bboxes["p2"] = out2
                     self._fail_counts["p2"] = 0
                 else:
@@ -80,7 +95,7 @@ class TrackerManager:
         except Exception:
             return self.last_bboxes.get("p1"), self.last_bboxes.get("p2")
 
-        # fallback to last known if tracker failed for one side
+        # fallback to last known if tracker failed for one side (last_bboxes stored as xyxy)
         if out1 is None:
             out1 = self.last_bboxes.get("p1")
         if out2 is None:

@@ -131,7 +131,11 @@ def detect_effects(cur_frame, prev_frame, p1_bbox, p2_bbox, mean_diff_thresh=10.
     results = []
     for bbox in (p1_bbox, p2_bbox):
         try:
-            x, y, w, h = map(int, bbox)
+            # expect bbox as xyxy (x1,y1,x2,y2)
+            x1, y1, x2, y2 = map(int, bbox)
+            x, y = x1, y1
+            w = max(1, x2 - x1)
+            h = max(1, y2 - y1)
             roi_cur = cur_p[y:y+h, x:x+w]
             roi_prev = prev_p[y:y+h, x:x+w]
             if roi_cur.size == 0 or roi_prev.size == 0:

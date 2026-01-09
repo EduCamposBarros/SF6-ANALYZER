@@ -83,20 +83,21 @@ while True:
     out = frame.copy()
     # draw bboxes
     def draw_bbox(img, box, color, label=None):
-        x, y, w_, h_ = map(int, box)
-        cv2.rectangle(img, (x, y), (x + w_, y + h_), color, 2)
+        # expect box as (x1,y1,x2,y2)
+        x1, y1, x2, y2 = map(int, box)
+        cv2.rectangle(img, (x1, y1), (x2, y2), color, 2)
         if label:
             # draw label inside the bbox at top-left corner
-            cv2.rectangle(img, (x, y), (x + 120, y + 20), color, -1)
-            cv2.putText(img, label, (x + 4, y + 15), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0), 2)
+            cv2.rectangle(img, (x1, y1), (x1 + 120, y1 + 20), color, -1)
+            cv2.putText(img, label, (x1 + 4, y1 + 15), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0), 2)
 
     draw_bbox(out, p1_bbox, (0, 200, 0), f"p1:{s1}")
     draw_bbox(out, p2_bbox, (0, 0, 200), f"p2:{s2}")
 
     if eff1:
         # mark center with a small circle
-        x, y, w_, h_ = map(int, p1_bbox)
-        cx, cy = x + w_ // 2, y + h_ // 2
+        x1, y1, x2, y2 = map(int, p1_bbox)
+        cx, cy = (x1 + x2) // 2, (y1 + y2) // 2
         cv2.circle(out, (cx, cy), 8, (0, 255, 255), -1)
         cv2.putText(out, f"hitspark", (cx + 10, cy), cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 255, 255), 2)
         # reduce life based on detected hits
@@ -138,16 +139,16 @@ while True:
                     target_bbox = p1_bbox
 
                 try:
-                    x, y, w_, h_ = map(int, bbox)
-                    cv2.rectangle(out, (x, y), (x + w_, y + h_), color, 4)
-                    cv2.putText(out, f"WHIFF->{attacker}", (x, max(20, y - 10)), cv2.FONT_HERSHEY_SIMPLEX, 0.9, color, 3)
+                    x1, y1, x2, y2 = map(int, bbox)
+                    cv2.rectangle(out, (x1, y1), (x2, y2), color, 4)
+                    cv2.putText(out, f"WHIFF->{attacker}", (x1, max(20, y1 - 10)), cv2.FONT_HERSHEY_SIMPLEX, 0.9, color, 3)
                 except Exception:
                     pass
 
                 # mark target center with a circle
                 try:
-                    tx, ty, tw, th = map(int, target_bbox)
-                    tcx, tcy = tx + tw // 2, ty + th // 2
+                    tx1, ty1, tx2, ty2 = map(int, target_bbox)
+                    tcx, tcy = (tx1 + tx2) // 2, (ty1 + ty2) // 2
                     cv2.circle(out, (tcx, tcy), 12, (255, 0, 0), -1)
                 except Exception:
                     pass

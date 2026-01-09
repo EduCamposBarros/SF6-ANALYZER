@@ -24,16 +24,25 @@ def detect_characters(frame: np.ndarray, prev_frame: Optional[np.ndarray] = None
 
     h, w = frame.shape[:2]
 
-    # Default fixed boxes (fallback)
-    default_p1 = (int(w * 0.1), int(h * 0.5), int(w * 0.15), int(h * 0.4))
-    default_p2 = (int(w * 0.75), int(h * 0.5), int(w * 0.15), int(h * 0.4))
+    # Default fixed boxes (fallback) in (x,y,w,h)
+    default_p1_xywh = (int(w * 0.1), int(h * 0.5), int(w * 0.15), int(h * 0.4))
+    default_p2_xywh = (int(w * 0.75), int(h * 0.5), int(w * 0.15), int(h * 0.4))
+
+    # helpers to convert between formats
+    def xywh_to_xyxy(b):
+        x, y, ww, hh = map(int, b)
+        return (x, y, x + ww, y + hh)
+
+    def xyxy_to_xywh(b):
+        x1, y1, x2, y2 = map(int, b)
+        return (x1, y1, x2 - x1, y2 - y1)
 
     mgr = get_manager()
 
-    # If no history provided, return default and initialize tracker
+    # If no history provided, initialize tracker and return defaults (as xyxy)
     if prev_frame is None or prev_bboxes is None:
-        mgr.initialize(frame, default_p1, default_p2)
-        return default_p1, default_p2
+        mgr.initialize(frame, xywh_to_xyxy(default_p1_xywh), xywh_to_xyxy(default_p2_xywh))
+        return xywh_to_xyxy(default_p1_xywh), xywh_to_xyxy(default_p2_xywh)
 
     # Try tracker update first
     tb1, tb2 = mgr.update(frame)
@@ -44,7 +53,19 @@ def detect_characters(frame: np.ndarray, prev_frame: Optional[np.ndarray] = None
     # For each previous bbox, try to find it in the new frame using template matching
     for prev_bbox in prev_bboxes:
         try:
-            px, py, pw, ph = map(int, prev_bbox)
+            # prev_bbox is expected in (x,y,w,h) from caller; convert to xyxy
+            if len(prev_bbox) == 4:
+                # support callers passing either format
+                if prev_bbox[2] > prev_bbox[0] and prev_bbox[3] > prev_bbox[1]:
+                    # likely xyxy
+                    px1, py1, px2, py2 = map(int, prev_bbox)
+                    pw = px2 - px1
+                    ph = py2 - py1
+                    px, py = px1, py1
+                else:
+                    px, py, pw, ph = map(int, prev_bbox)
+            else:
+                px, py, pw, ph = map(int, prev_bbox)
             # extract template from previous frame, clamp coords
             px = _clamp(px, 0, prev_frame.shape[1] - 1)
             py = _clamp(py, 0, prev_frame.shape[0] - 1)
@@ -87,19 +108,20 @@ def detect_characters(frame: np.ndarray, prev_frame: Optional[np.ndarray] = None
                 continue
 
             top_left = (sx + max_loc[0], sy + max_loc[1])
-            new_bbox = (top_left[0], top_left[1], pw, ph)
+            # return bbox as xyxy
+            new_bbox = (top_left[0], top_left[1], top_left[0] + pw, top_left[1] + ph)
             out_bboxes.append(new_bbox)
         except Exception:
             out_bboxes.append(prev_bbox)
 
-    # if we obtained matches, re-init trackers with the new bboxes
+    # if we obtained matches, re-init trackers with the new bboxes (ensure xyxy)
     if len(out_bboxes) >= 2:
         mgr.initialize(frame, out_bboxes[0], out_bboxes[1])
         return out_bboxes[0], out_bboxes[1]
     elif len(out_bboxes) == 1:
-        mgr.initialize(frame, out_bboxes[0], default_p2)
-        return out_bboxes[0], default_p2
+        mgr.initialize(frame, out_bboxes[0], xywh_to_xyxy(default_p2_xywh))
+        return out_bboxes[0], xywh_to_xyxy(default_p2_xywh)
     else:
         # nothing found: fall back to last known from manager or defaults
         last1, last2 = mgr.last_bboxes.get("p1"), mgr.last_bboxes.get("p2")
-        return (last1 if last1 is not None else default_p1, last2 if last2 is not None else default_p2)
+        return (last1 if last1 is not None else xywh_to_xyxy(default_p1_xywh), last2 if last2 is not None else xywh_to_xyxy(default_p2_xywh))
