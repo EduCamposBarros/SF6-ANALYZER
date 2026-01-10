@@ -35,6 +35,8 @@ class FrameData:
     # Ações/opcional labels detectadas (jump, drive, etc.)
     p1_action: Optional[str] = None
     p2_action: Optional[str] = None
+    # Game-wide state: 'FIGHT', 'KO', 'REPLAY' or None
+    game_state: Optional[str] = None
 
 
 # Representa um EVENTO relevante detectado no jogo

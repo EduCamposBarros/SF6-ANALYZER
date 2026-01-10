@@ -19,10 +19,16 @@ import json
 
 from models.structures import FrameData
 from vision.character_detection import detect_characters
+try:
+    from vision.auto_detector import AutoDetector
+    _AUTO_DETECTOR = AutoDetector()
+except Exception:
+    _AUTO_DETECTOR = None
 from vision.state_detection import detect_state, can_act
 from analysis.events import detect_events
 from analysis.frame_data import calculate_frame_data
 from analysis.insights import generate_insights
+from vision.game_state import detect_game_state
 
 
 def run(video_path):
@@ -45,15 +51,19 @@ def run(video_path):
     prev_p2_bbox = None
     life_p1 = 100
     life_p2 = 100
+    prev_game_state = None
 
     while cap.isOpened():
         ret, frame = cap.read()
         if not ret:
             break
 
-        # Detecta/rastra posição dos personagens (usa dados do frame anterior para estabilidade)
-        prev_bboxes = (prev_p1_bbox, prev_p2_bbox) if (prev_p1_bbox is not None and prev_p2_bbox is not None) else None
-        p1_bbox, p2_bbox = detect_characters(frame, prev_frame, prev_bboxes)
+        # Detecta/rastra posição dos personagens
+        if _AUTO_DETECTOR is not None:
+            p1_bbox, p2_bbox = _AUTO_DETECTOR.process(frame)
+        else:
+            prev_bboxes = (prev_p1_bbox, prev_p2_bbox) if (prev_p1_bbox is not None and prev_p2_bbox is not None) else None
+            p1_bbox, p2_bbox = detect_characters(frame, prev_frame, prev_bboxes)
 
         # Detecta estado de cada jogador usando histórico para detectar jump/drive
         p1_state = detect_state(frame, p1_bbox, prev_frame, prev_p1_bbox)
@@ -99,6 +109,14 @@ def run(video_path):
             p2_action=p2_action,
         )
 
+        # Detect game-wide state (FIGHT / KO / REPLAY)
+        try:
+            gs = detect_game_state(frame, prev_frame, data, prev_game_state)
+        except Exception:
+            gs = None
+        data.game_state = gs
+        prev_game_state = gs
+
         timeline.append(data)
 
         # Detecta eventos com base no frame anterior
@@ -133,6 +151,7 @@ def run(video_path):
                         "p2_state": fd.p2_state,
                         "p1_can_act": fd.p1_can_act,
                         "p2_can_act": fd.p2_can_act,
+                        "game_state": fd.game_state,
                     }
                     for fd in timeline[:200]
                 ],

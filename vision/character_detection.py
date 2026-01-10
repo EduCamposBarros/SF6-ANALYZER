@@ -44,9 +44,11 @@ def detect_characters(frame: np.ndarray, prev_frame: Optional[np.ndarray] = None
         mgr.initialize(frame, xywh_to_xyxy(default_p1_xywh), xywh_to_xyxy(default_p2_xywh))
         return xywh_to_xyxy(default_p1_xywh), xywh_to_xyxy(default_p2_xywh)
 
-    # Try tracker update first
+    # Try tracker update first but only accept it if trackers are actually active.
+    # `mgr.update()` may return `last_bboxes` even when trackers are None; in that
+    # case we must fall back to template-matching/detection to avoid stuck boxes.
     tb1, tb2 = mgr.update(frame)
-    if tb1 is not None and tb2 is not None:
+    if (mgr.trackers.get("p1") is not None or mgr.trackers.get("p2") is not None) and tb1 is not None and tb2 is not None:
         return tb1, tb2
 
     out_bboxes = []

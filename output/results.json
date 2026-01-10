@@ -2,123 +2,71 @@
   "frame_data": {
     "windows": [
       {
-        "attacker": "p1",
-        "start": 0,
-        "end": 31,
-        "on_block_adv": -999,
-        "whiff": true,
-        "punishable": false
-      },
-      {
-        "attacker": "p1",
-        "start": 32,
-        "end": 63,
-        "on_block_adv": -999,
-        "whiff": true,
-        "punishable": false
-      },
-      {
-        "attacker": "p1",
-        "start": 64,
-        "end": 95,
-        "on_block_adv": -999,
-        "whiff": true,
-        "punishable": false
-      },
-      {
-        "attacker": "p1",
-        "start": 96,
-        "end": 387,
-        "on_block_adv": 0
-      },
-      {
         "attacker": "p2",
         "start": 0,
-        "end": 387,
-        "on_block_adv": 380
-      },
-      {
-        "attacker": "p1",
-        "start": 388,
-        "end": 391,
-        "on_block_adv": 2
-      },
-      {
-        "attacker": "p2",
-        "start": 388,
-        "end": 391,
-        "on_block_adv": -2
-      },
-      {
-        "attacker": "p1",
-        "start": 392,
-        "end": 397,
-        "on_block_adv": 4
-      },
-      {
-        "attacker": "p2",
-        "start": 392,
-        "end": 397,
-        "on_block_adv": -4
-      },
-      {
-        "attacker": "p1",
-        "start": 398,
-        "end": 404,
-        "on_block_adv": 5
-      },
-      {
-        "attacker": "p2",
-        "start": 398,
-        "end": 404,
-        "on_block_adv": -5
-      },
-      {
-        "attacker": "p1",
-        "start": 406,
-        "end": 407,
-        "on_block_adv": 1
-      },
-      {
-        "attacker": "p1",
-        "start": 410,
-        "end": 417,
-        "on_block_adv": 7
-      },
-      {
-        "attacker": "p2",
-        "start": 411,
-        "end": 417,
-        "on_block_adv": -5
-      },
-      {
-        "attacker": "p1",
-        "start": 418,
-        "end": 421,
-        "on_block_adv": 3
-      },
-      {
-        "attacker": "p2",
-        "start": 420,
-        "end": 421,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 422,
-        "end": 423,
-        "on_block_adv": 1
-      },
-      {
-        "attacker": "p1",
-        "start": 426,
-        "end": 557,
+        "end": 44,
         "on_block_adv": -999,
         "whiff": true,
         "punishable": false
       },
       {
-        "attacker": "p1",
+        "attacker": "p2",
+        "start": 45,
+        "end": 76,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 77,
+        "end": 108,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 109,
+        "end": 140,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 141,
+        "end": 172,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 173,
+        "end": 357,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 360,
+        "end": 404,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 405,
+        "end": 556,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
         "start": 559,
         "end": 590,
         "on_block_adv": -999,
@@ -126,134 +74,138 @@
         "punishable": false
       },
       {
-        "attacker": "p1",
+        "attacker": "p2",
         "start": 591,
-        "end": 616,
-        "on_block_adv": -11
-      },
-      {
-        "attacker": "p2",
-        "start": 426,
-        "end": 616,
-        "on_block_adv": 59
-      },
-      {
-        "attacker": "p1",
-        "start": 617,
-        "end": 632,
-        "on_block_adv": 15
-      },
-      {
-        "attacker": "p1",
-        "start": 635,
-        "end": 666,
-        "on_block_adv": -999,
-        "whiff": true,
-        "punishable": false
-      },
-      {
-        "attacker": "p1",
-        "start": 667,
-        "end": 843,
-        "on_block_adv": -999,
-        "whiff": true,
-        "punishable": false
-      },
-      {
-        "attacker": "p1",
-        "start": 844,
-        "end": 875,
-        "on_block_adv": -999,
-        "whiff": true,
-        "punishable": false
-      },
-      {
-        "attacker": "p1",
-        "start": 887,
-        "end": 918,
-        "on_block_adv": -999,
-        "whiff": true,
-        "punishable": false
-      },
-      {
-        "attacker": "p1",
-        "start": 923,
-        "end": 954,
-        "on_block_adv": -999,
-        "whiff": true,
-        "punishable": false
-      },
-      {
-        "attacker": "p1",
-        "start": 955,
-        "end": 986,
-        "on_block_adv": -999,
-        "whiff": true,
-        "punishable": false
-      },
-      {
-        "attacker": "p1",
-        "start": 987,
-        "end": 1018,
-        "on_block_adv": -999,
-        "whiff": true,
-        "punishable": false
-      },
-      {
-        "attacker": "p1",
-        "start": 1019,
-        "end": 1050,
-        "on_block_adv": -999,
-        "whiff": true,
-        "punishable": false
-      },
-      {
-        "attacker": "p1",
-        "start": 1058,
-        "end": 1089,
+        "end": 622,
         "on_block_adv": -999,
         "whiff": true,
         "punishable": false
       },
       {
         "attacker": "p2",
-        "start": 619,
-        "end": 1166,
-        "on_block_adv": 534
-      },
-      {
-        "attacker": "p1",
-        "start": 1095,
-        "end": 1169,
-        "on_block_adv": 3
-      },
-      {
-        "attacker": "p1",
-        "start": 1170,
-        "end": 1201,
+        "start": 623,
+        "end": 654,
         "on_block_adv": -999,
         "whiff": true,
         "punishable": false
       },
       {
-        "attacker": "p1",
-        "start": 1202,
-        "end": 1233,
+        "attacker": "p2",
+        "start": 655,
+        "end": 686,
         "on_block_adv": -999,
         "whiff": true,
         "punishable": false
       },
       {
-        "attacker": "p1",
-        "start": 1234,
+        "attacker": "p2",
+        "start": 687,
+        "end": 849,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 850,
+        "end": 881,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 883,
+        "end": 914,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 915,
+        "end": 946,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 948,
+        "end": 979,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 980,
+        "end": 1051,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 1059,
+        "end": 1090,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 1091,
+        "end": 1122,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 1123,
+        "end": 1154,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 1155,
+        "end": 1186,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 1187,
+        "end": 1218,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 1219,
+        "end": 1250,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 1251,
         "end": 1332,
-        "on_block_adv": 0
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": true
       },
       {
-        "attacker": "p2",
-        "start": 1168,
-        "end": 1332,
-        "on_block_adv": 163
+        "attacker": "p1",
+        "start": 0,
+        "end": 1333,
+        "on_block_adv": 1289
       },
       {
         "attacker": "p1",
@@ -280,55 +232,88 @@
         "on_block_adv": 0
       },
       {
-        "attacker": "p1",
+        "attacker": "p2",
         "start": 1341,
-        "end": 1501,
+        "end": 1372,
         "on_block_adv": -999,
         "whiff": true,
         "punishable": false
       },
       {
-        "attacker": "p1",
-        "start": 1502,
-        "end": 1533,
+        "attacker": "p2",
+        "start": 1373,
+        "end": 1490,
         "on_block_adv": -999,
         "whiff": true,
         "punishable": false
       },
       {
-        "attacker": "p1",
-        "start": 1536,
-        "end": 1567,
+        "attacker": "p2",
+        "start": 1493,
+        "end": 1524,
         "on_block_adv": -999,
         "whiff": true,
         "punishable": false
       },
       {
-        "attacker": "p1",
-        "start": 1568,
-        "end": 1599,
+        "attacker": "p2",
+        "start": 1525,
+        "end": 1556,
         "on_block_adv": -999,
         "whiff": true,
         "punishable": false
       },
       {
-        "attacker": "p1",
-        "start": 1600,
-        "end": 1631,
+        "attacker": "p2",
+        "start": 1557,
+        "end": 1588,
         "on_block_adv": -999,
         "whiff": true,
         "punishable": false
       },
       {
-        "attacker": "p1",
-        "start": 1632,
-        "end": 1666,
+        "attacker": "p2",
+        "start": 1591,
+        "end": 1622,
         "on_block_adv": -999,
         "whiff": true,
         "punishable": false
       },
       {
+        "attacker": "p2",
+        "start": 1623,
+        "end": 1661,
+        "on_block_adv": -999,
+        "whiff": true,
+        "punishable": false
+      },
+      {
+        "attacker": "p2",
+        "start": 1,
+        "on_block_adv": 10
+      },
+      {
+        "attacker": "p2",
+        "start": 2,
+        "on_block_adv": 10
+      },
+      {
+        "attacker": "p2",
+        "start": 3,
+        "on_block_adv": 10
+      },
+      {
+        "attacker": "p2",
+        "start": 4,
+        "on_block_adv": 10
+      },
+      {
         "attacker": "p1",
+        "start": 5,
+        "on_block_adv": 10
+      },
+      {
+        "attacker": "p2",
         "start": 5,
         "on_block_adv": 10
       },
@@ -338,14 +323,49 @@
         "on_block_adv": 10
       },
       {
+        "attacker": "p2",
+        "start": 6,
+        "on_block_adv": 10
+      },
+      {
+        "attacker": "p1",
+        "start": 7,
+        "on_block_adv": 10
+      },
+      {
+        "attacker": "p2",
+        "start": 7,
+        "on_block_adv": 10
+      },
+      {
         "attacker": "p1",
         "start": 8,
-        "on_block_adv": 0
+        "on_block_adv": 10
+      },
+      {
+        "attacker": "p2",
+        "start": 8,
+        "on_block_adv": 10
+      },
+      {
+        "attacker": "p1",
+        "start": 9,
+        "on_block_adv": 10
+      },
+      {
+        "attacker": "p2",
+        "start": 9,
+        "on_block_adv": 10
       },
       {
         "attacker": "p1",
         "start": 10,
-        "on_block_adv": 0
+        "on_block_adv": 10
+      },
+      {
+        "attacker": "p2",
+        "start": 10,
+        "on_block_adv": 10
       },
       {
         "attacker": "p1",
@@ -359,378 +379,98 @@
       },
       {
         "attacker": "p1",
-        "start": 17,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 18,
+        "start": 15,
         "on_block_adv": 10
       },
       {
         "attacker": "p1",
-        "start": 20,
+        "start": 16,
         "on_block_adv": 10
       },
       {
         "attacker": "p1",
-        "start": 22,
-        "on_block_adv": 10
-      },
-      {
-        "attacker": "p1",
-        "start": 24,
-        "on_block_adv": 10
-      },
-      {
-        "attacker": "p1",
-        "start": 25,
-        "on_block_adv": 10
-      },
-      {
-        "attacker": "p1",
-        "start": 38,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 62,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 78,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 86,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 90,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 578,
-        "on_block_adv": -37
-      },
-      {
-        "attacker": "p1",
-        "start": 582,
-        "on_block_adv": -33
-      },
-      {
-        "attacker": "p1",
-        "start": 585,
-        "on_block_adv": -27
-      },
-      {
-        "attacker": "p1",
-        "start": 613,
-        "on_block_adv": 16
-      },
-      {
-        "attacker": "p1",
-        "start": 639,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 651,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 655,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 850,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 852,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 854,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 859,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 862,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 866,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 875,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 906,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 915,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 926,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 929,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 934,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 936,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 939,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 946,
+        "start": 29,
         "on_block_adv": 0
       },
       {
         "attacker": "p1",
-        "start": 950,
+        "start": 36,
         "on_block_adv": 0
       },
       {
         "attacker": "p1",
-        "start": 952,
+        "start": 174,
         "on_block_adv": 0
       },
       {
         "attacker": "p1",
-        "start": 960,
+        "start": 398,
         "on_block_adv": 0
       },
       {
         "attacker": "p1",
-        "start": 962,
+        "start": 507,
         "on_block_adv": 0
       },
       {
         "attacker": "p1",
-        "start": 965,
+        "start": 590,
         "on_block_adv": 0
       },
       {
         "attacker": "p1",
-        "start": 971,
+        "start": 647,
         "on_block_adv": 0
       },
       {
         "attacker": "p1",
-        "start": 978,
+        "start": 692,
         "on_block_adv": 0
       },
       {
         "attacker": "p1",
-        "start": 983,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1003,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1006,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1026,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1035,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1043,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1067,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1073,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1078,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1174,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1179,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1193,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1195,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1198,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1206,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1214,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1223,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1227,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1230,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1505,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1508,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1511,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1515,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1520,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1523,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1527,
-        "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1531,
-        "on_block_adv": 0
+        "start": 1086,
+        "on_block_adv": 2
       },
       {
         "attacker": "p1",
-        "start": 1543,
-        "on_block_adv": 0
+        "start": 1087,
+        "on_block_adv": 2
       },
       {
         "attacker": "p1",
-        "start": 1552,
-        "on_block_adv": 0
+        "start": 1088,
+        "on_block_adv": 2
       },
       {
         "attacker": "p1",
-        "start": 1559,
+        "start": 1341,
         "on_block_adv": 0
       },
       {
         "attacker": "p1",
-        "start": 1575,
-        "on_block_adv": 0
+        "start": 1343,
+        "on_block_adv": 2
       },
       {
         "attacker": "p1",
-        "start": 1583,
-        "on_block_adv": 0
+        "start": 1346,
+        "on_block_adv": 2
       },
       {
         "attacker": "p1",
-        "start": 1594,
+        "start": 1448,
         "on_block_adv": 0
       },
       {
         "attacker": "p1",
-        "start": 1613,
+        "start": 1630,
         "on_block_adv": 0
       },
       {
         "attacker": "p1",
-        "start": 1616,
-        "on_block_adv": 0
+        "start": 1632,
+        "on_block_adv": 2
       },
       {
         "attacker": "p1",
@@ -781,159 +521,1085 @@
         "attacker": "p1",
         "start": 1645,
         "on_block_adv": 0
-      },
-      {
-        "attacker": "p1",
-        "start": 1668,
-        "on_block_adv": 0
       }
     ],
     "summary": {
-      "plus_on_block": 31,
-      "minus_on_block": 8,
-      "avg_on_block": 9.974358974358974,
-      "punishable_jumps": [],
+      "plus_on_block": 35,
+      "minus_on_block": 0,
+      "avg_on_block": 29.01923076923077,
+      "punishable_jumps": [
+        {
+          "player": "p1",
+          "start": 13,
+          "land": 14,
+          "punishable": false
+        },
+        {
+          "player": "p1",
+          "start": 28,
+          "land": 29,
+          "punishable": false
+        },
+        {
+          "player": "p1",
+          "start": 35,
+          "land": 36,
+          "punishable": false
+        },
+        {
+          "player": "p1",
+          "start": 173,
+          "land": 174,
+          "punishable": false
+        },
+        {
+          "player": "p1",
+          "start": 397,
+          "land": 398,
+          "punishable": false
+        },
+        {
+          "player": "p1",
+          "start": 506,
+          "land": 507,
+          "punishable": false
+        },
+        {
+          "player": "p1",
+          "start": 589,
+          "land": 590,
+          "punishable": true
+        },
+        {
+          "player": "p1",
+          "start": 646,
+          "land": 647,
+          "punishable": true
+        },
+        {
+          "player": "p1",
+          "start": 691,
+          "land": 692,
+          "punishable": false
+        },
+        {
+          "player": "p1",
+          "start": 1447,
+          "land": 1448,
+          "punishable": false
+        },
+        {
+          "player": "p1",
+          "start": 1629,
+          "land": 1630,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 11,
+          "land": 12,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 13,
+          "land": 14,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 17,
+          "land": 18,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 29,
+          "land": 31,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 34,
+          "land": 35,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 42,
+          "land": 43,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 54,
+          "land": 55,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 57,
+          "land": 58,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 59,
+          "land": 60,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 61,
+          "land": 62,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 63,
+          "land": 65,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 68,
+          "land": 69,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 71,
+          "land": 72,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 75,
+          "land": 76,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 84,
+          "land": 85,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 86,
+          "land": 87,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 117,
+          "land": 118,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 148,
+          "land": 150,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 153,
+          "land": 154,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 155,
+          "land": 156,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 161,
+          "land": 162,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 163,
+          "land": 164,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 166,
+          "land": 167,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 217,
+          "land": 218,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 290,
+          "land": 291,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 294,
+          "land": 295,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 296,
+          "land": 297,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 342,
+          "land": 343,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 352,
+          "land": 353,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 358,
+          "land": 360,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 381,
+          "land": 382,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 391,
+          "land": 392,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 396,
+          "land": 397,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 399,
+          "land": 400,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 403,
+          "land": 404,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 412,
+          "land": 414,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 415,
+          "land": 416,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 418,
+          "land": 419,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 423,
+          "land": 425,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 429,
+          "land": 430,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 432,
+          "land": 433,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 436,
+          "land": 437,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 438,
+          "land": 439,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 494,
+          "land": 495,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 498,
+          "land": 499,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 504,
+          "land": 505,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 560,
+          "land": 561,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 569,
+          "land": 570,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 571,
+          "land": 572,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 574,
+          "land": 575,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 636,
+          "land": 637,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 641,
+          "land": 642,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 644,
+          "land": 645,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 710,
+          "land": 711,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 712,
+          "land": 713,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 765,
+          "land": 766,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 842,
+          "land": 844,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 858,
+          "land": 859,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 862,
+          "land": 863,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 869,
+          "land": 870,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 872,
+          "land": 873,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 876,
+          "land": 878,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 882,
+          "land": 883,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 884,
+          "land": 885,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 906,
+          "land": 907,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 916,
+          "land": 917,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 919,
+          "land": 920,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 923,
+          "land": 924,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 930,
+          "land": 931,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 933,
+          "land": 934,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 936,
+          "land": 937,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 947,
+          "land": 948,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 949,
+          "land": 951,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 952,
+          "land": 953,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 955,
+          "land": 956,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 961,
+          "land": 962,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 968,
+          "land": 969,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 970,
+          "land": 971,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 972,
+          "land": 974,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 975,
+          "land": 976,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1055,
+          "land": 1056,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1058,
+          "land": 1059,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1067,
+          "land": 1068,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1080,
+          "land": 1081,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1106,
+          "land": 1107,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1134,
+          "land": 1135,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1136,
+          "land": 1138,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1142,
+          "land": 1143,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1144,
+          "land": 1145,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1150,
+          "land": 1151,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1154,
+          "land": 1155,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1156,
+          "land": 1157,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1190,
+          "land": 1191,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1212,
+          "land": 1213,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1228,
+          "land": 1229,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1263,
+          "land": 1264,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1267,
+          "land": 1268,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1315,
+          "land": 1316,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1326,
+          "land": 1327,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1330,
+          "land": 1332,
+          "punishable": true
+        },
+        {
+          "player": "p2",
+          "start": 1384,
+          "land": 1386,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1392,
+          "land": 1393,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1394,
+          "land": 1395,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1398,
+          "land": 1399,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1448,
+          "land": 1449,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1481,
+          "land": 1482,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1485,
+          "land": 1486,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1487,
+          "land": 1488,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1489,
+          "land": 1490,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1495,
+          "land": 1496,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1498,
+          "land": 1499,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1500,
+          "land": 1501,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1510,
+          "land": 1511,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1512,
+          "land": 1513,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1526,
+          "land": 1528,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1539,
+          "land": 1541,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1543,
+          "land": 1544,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1559,
+          "land": 1560,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1590,
+          "land": 1591,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1609,
+          "land": 1610,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1612,
+          "land": 1613,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1615,
+          "land": 1616,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1618,
+          "land": 1619,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1630,
+          "land": 1632,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1633,
+          "land": 1635,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1654,
+          "land": 1655,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1657,
+          "land": 1658,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1659,
+          "land": 1660,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1662,
+          "land": 1663,
+          "punishable": false
+        },
+        {
+          "player": "p2",
+          "start": 1668,
+          "land": 1669,
+          "punishable": false
+        }
+      ],
       "drive_impacts": [],
       "whiff_punishes": [
         {
-          "attacker": "p1",
+          "attacker": "p2",
           "start": 0,
-          "end": 31,
+          "end": 44,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 32,
-          "end": 63,
+          "attacker": "p2",
+          "start": 45,
+          "end": 76,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 64,
-          "end": 95,
+          "attacker": "p2",
+          "start": 77,
+          "end": 108,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 426,
-          "end": 557,
+          "attacker": "p2",
+          "start": 109,
+          "end": 140,
           "punishable": false
         },
         {
-          "attacker": "p1",
+          "attacker": "p2",
+          "start": 141,
+          "end": 172,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
+          "start": 173,
+          "end": 357,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
+          "start": 360,
+          "end": 404,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
+          "start": 405,
+          "end": 556,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
           "start": 559,
           "end": 590,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 635,
-          "end": 666,
+          "attacker": "p2",
+          "start": 591,
+          "end": 622,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 667,
-          "end": 843,
+          "attacker": "p2",
+          "start": 623,
+          "end": 654,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 844,
-          "end": 875,
+          "attacker": "p2",
+          "start": 655,
+          "end": 686,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 887,
-          "end": 918,
+          "attacker": "p2",
+          "start": 687,
+          "end": 849,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 923,
-          "end": 954,
+          "attacker": "p2",
+          "start": 850,
+          "end": 881,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 955,
-          "end": 986,
+          "attacker": "p2",
+          "start": 883,
+          "end": 914,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 987,
-          "end": 1018,
+          "attacker": "p2",
+          "start": 915,
+          "end": 946,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 1019,
-          "end": 1050,
+          "attacker": "p2",
+          "start": 948,
+          "end": 979,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 1058,
-          "end": 1089,
+          "attacker": "p2",
+          "start": 980,
+          "end": 1051,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 1170,
-          "end": 1201,
+          "attacker": "p2",
+          "start": 1059,
+          "end": 1090,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 1202,
-          "end": 1233,
+          "attacker": "p2",
+          "start": 1091,
+          "end": 1122,
           "punishable": false
         },
         {
-          "attacker": "p1",
+          "attacker": "p2",
+          "start": 1123,
+          "end": 1154,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
+          "start": 1155,
+          "end": 1186,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
+          "start": 1187,
+          "end": 1218,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
+          "start": 1219,
+          "end": 1250,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
+          "start": 1251,
+          "end": 1332,
+          "punishable": true
+        },
+        {
+          "attacker": "p2",
           "start": 1341,
-          "end": 1501,
+          "end": 1372,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 1502,
-          "end": 1533,
+          "attacker": "p2",
+          "start": 1373,
+          "end": 1490,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 1536,
-          "end": 1567,
+          "attacker": "p2",
+          "start": 1493,
+          "end": 1524,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 1568,
-          "end": 1599,
+          "attacker": "p2",
+          "start": 1525,
+          "end": 1556,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 1600,
-          "end": 1631,
+          "attacker": "p2",
+          "start": 1557,
+          "end": 1588,
           "punishable": false
         },
         {
-          "attacker": "p1",
-          "start": 1632,
-          "end": 1666,
+          "attacker": "p2",
+          "start": 1591,
+          "end": 1622,
+          "punishable": false
+        },
+        {
+          "attacker": "p2",
+          "start": 1623,
+          "end": 1661,
           "punishable": false
         }
       ]
     }
   },
   "insights": [
-    "Nenhuma fraqueza \u00f3bvia detectada \u2014 foque em polir execu\u00e7\u00e3o e condi\u00e7\u00f5es de press\u00e3o."
+    "Detectados 1 whiff punish poss\u00edveis \u2014 pratique punir recovery de ataques perdidos."
   ],
   "events": [
+    {
+      "type": "hit",
+      "frame_id": 1,
+      "attacker": "P2",
+      "defender": "P1"
+    },
+    {
+      "type": "hit",
+      "frame_id": 2,
+      "attacker": "P2",
+      "defender": "P1"
+    },
+    {
+      "type": "hit",
+      "frame_id": 3,
+      "attacker": "P2",
+      "defender": "P1"
+    },
+    {
+      "type": "hit",
+      "frame_id": 4,
+      "attacker": "P2",
+      "defender": "P1"
+    },
     {
       "type": "hit",
       "frame_id": 5,
@@ -942,15 +1608,33 @@
     },
     {
       "type": "hit",
+      "frame_id": 5,
+      "attacker": "P2",
+      "defender": "P1"
+    },
+    {
+      "type": "hit",
       "frame_id": 6,
       "attacker": "P1",
       "defender": "P2"
     },
     {
-      "type": "attack_start",
-      "frame_id": 8,
+      "type": "hit",
+      "frame_id": 6,
+      "attacker": "P2",
+      "defender": "P1"
+    },
+    {
+      "type": "hit",
+      "frame_id": 7,
       "attacker": "P1",
-      "defender": null
+      "defender": "P2"
+    },
+    {
+      "type": "hit",
+      "frame_id": 7,
+      "attacker": "P2",
+      "defender": "P1"
     },
     {
       "type": "hit",
@@ -959,16 +1643,46 @@
       "defender": "P2"
     },
     {
-      "type": "attack_start",
-      "frame_id": 10,
+      "type": "hit",
+      "frame_id": 8,
+      "attacker": "P2",
+      "defender": "P1"
+    },
+    {
+      "type": "hit",
+      "frame_id": 9,
       "attacker": "P1",
-      "defender": null
+      "defender": "P2"
+    },
+    {
+      "type": "hit",
+      "frame_id": 9,
+      "attacker": "P2",
+      "defender": "P1"
     },
     {
       "type": "hit",
       "frame_id": 10,
       "attacker": "P1",
       "defender": "P2"
+    },
+    {
+      "type": "hit",
+      "frame_id": 10,
+      "attacker": "P2",
+      "defender": "P1"
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 11,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 12,
+      "attacker": "P2",
+      "defender": null
     },
     {
       "type": "hit",
@@ -977,87 +1691,483 @@
       "defender": "P2"
     },
     {
+      "type": "jump_start",
+      "frame_id": 13,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 13,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
       "type": "attack_start",
       "frame_id": 14,
       "attacker": "P1",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_land",
+      "frame_id": 14,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 14,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "hit",
+      "frame_id": 14,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "hit",
+      "frame_id": 15,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "hit",
+      "frame_id": 16,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "jump_start",
       "frame_id": 17,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "hit",
+      "type": "jump_land",
       "frame_id": 18,
-      "attacker": "P1",
-      "defender": "P2"
+      "attacker": "P2",
+      "defender": null
     },
     {
-      "type": "hit",
-      "frame_id": 20,
-      "attacker": "P1",
-      "defender": "P2"
-    },
-    {
-      "type": "hit",
-      "frame_id": 22,
-      "attacker": "P1",
-      "defender": "P2"
-    },
-    {
-      "type": "hit",
-      "frame_id": 24,
-      "attacker": "P1",
-      "defender": "P2"
-    },
-    {
-      "type": "hit",
-      "frame_id": 25,
-      "attacker": "P1",
-      "defender": "P2"
-    },
-    {
-      "type": "attack_start",
-      "frame_id": 38,
+      "type": "jump_start",
+      "frame_id": 28,
       "attacker": "P1",
       "defender": null
     },
     {
       "type": "attack_start",
+      "frame_id": 29,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 29,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 29,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 31,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 34,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 35,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 35,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "attack_start",
+      "frame_id": 36,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 36,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 42,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 43,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 54,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 55,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 57,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 58,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 59,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 60,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 61,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
       "frame_id": 62,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 78,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 63,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_land",
+      "frame_id": 65,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 68,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 69,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 71,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 72,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 75,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 76,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 84,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 85,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
       "frame_id": 86,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 87,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 117,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 118,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 148,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 150,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 153,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 154,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 155,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 156,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 161,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 162,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 163,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 164,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 166,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 167,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 173,
       "attacker": "P1",
       "defender": null
     },
     {
       "type": "attack_start",
-      "frame_id": 90,
+      "frame_id": 174,
       "attacker": "P1",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 388,
+      "type": "jump_land",
+      "frame_id": 174,
       "attacker": "P1",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_start",
+      "frame_id": 217,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 218,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 290,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 291,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 294,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 295,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 296,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 297,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 342,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 343,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 352,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 353,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 358,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 360,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 381,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 382,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 391,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
       "frame_id": 392,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 396,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 397,
       "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 397,
+      "attacker": "P2",
       "defender": null
     },
     {
@@ -1067,393 +2177,903 @@
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 406,
+      "type": "jump_land",
+      "frame_id": 398,
       "attacker": "P1",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 410,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 399,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_land",
+      "frame_id": 400,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 403,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 404,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 412,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 414,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 415,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 416,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
       "frame_id": 418,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 419,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 423,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 425,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 429,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 430,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 432,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 433,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 436,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 437,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 438,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 439,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 494,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 495,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 498,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 499,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 504,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 505,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 506,
       "attacker": "P1",
       "defender": null
     },
     {
       "type": "attack_start",
-      "frame_id": 422,
+      "frame_id": 507,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 507,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 560,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 561,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 569,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 570,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 571,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 572,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 574,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 575,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 589,
       "attacker": "P1",
       "defender": null
     },
     {
       "type": "attack_start",
-      "frame_id": 426,
+      "frame_id": 590,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 590,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 636,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 637,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 641,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 642,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 644,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 645,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 646,
       "attacker": "P1",
       "defender": null
     },
     {
       "type": "attack_start",
-      "frame_id": 559,
+      "frame_id": 647,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 647,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 691,
       "attacker": "P1",
       "defender": null
     },
     {
       "type": "attack_start",
-      "frame_id": 578,
+      "frame_id": 692,
       "attacker": "P1",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 582,
+      "type": "jump_land",
+      "frame_id": 692,
       "attacker": "P1",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 585,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 710,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 591,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 711,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 613,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 712,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 635,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 713,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 639,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 765,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 651,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 766,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 655,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 842,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 667,
-      "attacker": "P1",
-      "defender": null
-    },
-    {
-      "type": "attack_start",
+      "type": "jump_land",
       "frame_id": 844,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 850,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 858,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 852,
-      "attacker": "P1",
-      "defender": null
-    },
-    {
-      "type": "attack_start",
-      "frame_id": 854,
-      "attacker": "P1",
-      "defender": null
-    },
-    {
-      "type": "attack_start",
+      "type": "jump_land",
       "frame_id": 859,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_start",
       "frame_id": 862,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 866,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 863,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 875,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 869,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 887,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 870,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_start",
+      "frame_id": 872,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 873,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 876,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 878,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 882,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 883,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 884,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 885,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
       "frame_id": 906,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 915,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 907,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_start",
+      "frame_id": 916,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 917,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 919,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 920,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
       "frame_id": 923,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 926,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 924,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 929,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 930,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_land",
+      "frame_id": 931,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 933,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
       "frame_id": 934,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_start",
       "frame_id": 936,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 939,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 937,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 946,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 947,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 950,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 948,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_start",
+      "frame_id": 949,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 951,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
       "frame_id": 952,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_land",
+      "frame_id": 953,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
       "frame_id": 955,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 960,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 956,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_start",
+      "frame_id": 961,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
       "frame_id": 962,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 965,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 968,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_land",
+      "frame_id": 969,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 970,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
       "frame_id": 971,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 978,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 972,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 983,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 974,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1003,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 975,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1006,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 976,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1019,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 1055,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1026,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1056,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1035,
-      "attacker": "P1",
-      "defender": null
-    },
-    {
-      "type": "attack_start",
-      "frame_id": 1043,
-      "attacker": "P1",
-      "defender": null
-    },
-    {
-      "type": "attack_start",
+      "type": "jump_start",
       "frame_id": 1058,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_land",
+      "frame_id": 1059,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
       "frame_id": 1067,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1073,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1068,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1078,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 1080,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1095,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1081,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1170,
+      "type": "block",
+      "frame_id": 1086,
       "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "block",
+      "frame_id": 1087,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "block",
+      "frame_id": 1088,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1106,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1174,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1107,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1179,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 1134,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1193,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1135,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1195,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 1136,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1198,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1138,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1206,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 1142,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1214,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1143,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1223,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 1144,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1227,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1145,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1230,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 1150,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1151,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1154,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1155,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1156,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1157,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1190,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1191,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1212,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1213,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1228,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1229,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1263,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1264,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1267,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1268,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1315,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1316,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1326,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1327,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1330,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1332,
+      "attacker": "P2",
       "defender": null
     },
     {
@@ -1475,123 +3095,357 @@
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1502,
+      "type": "block",
+      "frame_id": 1343,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "block",
+      "frame_id": 1346,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1384,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1386,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1392,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1393,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1394,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1395,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1398,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1399,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1447,
       "attacker": "P1",
       "defender": null
     },
     {
       "type": "attack_start",
-      "frame_id": 1505,
+      "frame_id": 1448,
       "attacker": "P1",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1508,
+      "type": "jump_land",
+      "frame_id": 1448,
       "attacker": "P1",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_start",
+      "frame_id": 1448,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1449,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1481,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1482,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1485,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1486,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1487,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1488,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1489,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1490,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1495,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1496,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1498,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1499,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1500,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1501,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1510,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
       "frame_id": 1511,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1515,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 1512,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1520,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1513,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1523,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 1526,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1527,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1528,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1531,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 1539,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1536,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1541,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_start",
       "frame_id": 1543,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1552,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1544,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_start",
       "frame_id": 1559,
-      "attacker": "P1",
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1568,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1560,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1575,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 1590,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1583,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1591,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1594,
-      "attacker": "P1",
+      "type": "jump_start",
+      "frame_id": 1609,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
-      "frame_id": 1600,
-      "attacker": "P1",
+      "type": "jump_land",
+      "frame_id": 1610,
+      "attacker": "P2",
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_start",
+      "frame_id": 1612,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
       "frame_id": 1613,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1615,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1616,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1618,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1619,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1629,
       "attacker": "P1",
       "defender": null
     },
     {
       "type": "attack_start",
-      "frame_id": 1616,
+      "frame_id": 1630,
       "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1630,
+      "attacker": "P1",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1630,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "block",
+      "frame_id": 1632,
+      "attacker": "P1",
+      "defender": "P2"
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1632,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1633,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1635,
+      "attacker": "P2",
       "defender": null
     },
     {
@@ -1655,9 +3509,63 @@
       "defender": null
     },
     {
-      "type": "attack_start",
+      "type": "jump_start",
+      "frame_id": 1654,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1655,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1657,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1658,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1659,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1660,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
+      "frame_id": 1662,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1663,
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_start",
       "frame_id": 1668,
-      "attacker": "P1",
+      "attacker": "P2",
+      "defender": null
+    },
+    {
+      "type": "jump_land",
+      "frame_id": 1669,
+      "attacker": "P2",
       "defender": null
     }
   ],
@@ -1667,1400 +3575,1600 @@
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "FIGHT"
     },
     {
       "frame_id": 1,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": null
     },
     {
       "frame_id": 2,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": null
     },
     {
       "frame_id": 3,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": null
     },
     {
       "frame_id": 4,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": null
     },
     {
       "frame_id": 5,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": null
     },
     {
       "frame_id": 6,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": null
     },
     {
       "frame_id": 7,
-      "p1_state": "neutral",
+      "p1_state": "attack_active",
       "p2_state": "attack_active",
-      "p1_can_act": true,
-      "p2_can_act": false
+      "p1_can_act": false,
+      "p2_can_act": false,
+      "game_state": null
     },
     {
       "frame_id": 8,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": null
     },
     {
       "frame_id": 9,
-      "p1_state": "neutral",
+      "p1_state": "attack_active",
       "p2_state": "attack_active",
-      "p1_can_act": true,
-      "p2_can_act": false
+      "p1_can_act": false,
+      "p2_can_act": false,
+      "game_state": null
     },
     {
       "frame_id": 10,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 11,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 12,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 13,
-      "p1_state": "neutral",
-      "p2_state": "attack_active",
-      "p1_can_act": true,
-      "p2_can_act": false
+      "p1_state": "jump",
+      "p2_state": "jump",
+      "p1_can_act": false,
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 14,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 15,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 16,
-      "p1_state": "neutral",
+      "p1_state": "attack_active",
       "p2_state": "attack_active",
-      "p1_can_act": true,
-      "p2_can_act": false
+      "p1_can_act": false,
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 17,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 18,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 19,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 20,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 21,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 22,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 23,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 24,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 25,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 26,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 27,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 28,
-      "p1_state": "attack_active",
+      "p1_state": "jump",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 29,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 30,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 31,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 32,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 33,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 34,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 35,
-      "p1_state": "attack_active",
+      "p1_state": "jump",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 36,
-      "p1_state": "neutral",
+      "p1_state": "attack_active",
       "p2_state": "attack_active",
-      "p1_can_act": true,
-      "p2_can_act": false
+      "p1_can_act": false,
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 37,
-      "p1_state": "neutral",
+      "p1_state": "attack_active",
       "p2_state": "attack_active",
-      "p1_can_act": true,
-      "p2_can_act": false
+      "p1_can_act": false,
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 38,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 39,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 40,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 41,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 42,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 43,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 44,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "neutral",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": true,
+      "game_state": "KO"
     },
     {
       "frame_id": 45,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 46,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 47,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 48,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 49,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 50,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "neutral",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": true,
+      "game_state": "KO"
     },
     {
       "frame_id": 51,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 52,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 53,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 54,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 55,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "neutral",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": true,
+      "game_state": "KO"
     },
     {
       "frame_id": 56,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 57,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 58,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 59,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 60,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 61,
-      "p1_state": "neutral",
-      "p2_state": "attack_active",
-      "p1_can_act": true,
-      "p2_can_act": false
+      "p1_state": "attack_active",
+      "p2_state": "jump",
+      "p1_can_act": false,
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 62,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 63,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 64,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 65,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 66,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 67,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 68,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 69,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 70,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 71,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 72,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 73,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 74,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 75,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 76,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 77,
-      "p1_state": "neutral",
+      "p1_state": "attack_active",
       "p2_state": "attack_active",
-      "p1_can_act": true,
-      "p2_can_act": false
+      "p1_can_act": false,
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 78,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "neutral",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": true,
+      "game_state": "KO"
     },
     {
       "frame_id": 79,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 80,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 81,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 82,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "neutral",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": true,
+      "game_state": "KO"
     },
     {
       "frame_id": 83,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 84,
-      "p1_state": "neutral",
-      "p2_state": "attack_active",
-      "p1_can_act": true,
-      "p2_can_act": false
+      "p1_state": "attack_active",
+      "p2_state": "jump",
+      "p1_can_act": false,
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 85,
-      "p1_state": "neutral",
+      "p1_state": "attack_active",
       "p2_state": "attack_active",
-      "p1_can_act": true,
-      "p2_can_act": false
+      "p1_can_act": false,
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 86,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 87,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 88,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "neutral",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": true,
+      "game_state": "KO"
     },
     {
       "frame_id": 89,
-      "p1_state": "neutral",
-      "p2_state": "attack_active",
-      "p1_can_act": true,
-      "p2_can_act": false
+      "p1_state": "attack_active",
+      "p2_state": "neutral",
+      "p1_can_act": false,
+      "p2_can_act": true,
+      "game_state": "KO"
     },
     {
       "frame_id": 90,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 91,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 92,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 93,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 94,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 95,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 96,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 97,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 98,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 99,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 100,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 101,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 102,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 103,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 104,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 105,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 106,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 107,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 108,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 109,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 110,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 111,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 112,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 113,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 114,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 115,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 116,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 117,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 118,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 119,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 120,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 121,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 122,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "neutral",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": true,
+      "game_state": "KO"
     },
     {
       "frame_id": 123,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "neutral",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": true,
+      "game_state": "KO"
     },
     {
       "frame_id": 124,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 125,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 126,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 127,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 128,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 129,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 130,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 131,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 132,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 133,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 134,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 135,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 136,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 137,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 138,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 139,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 140,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 141,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 142,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 143,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 144,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 145,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 146,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 147,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 148,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 149,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 150,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 151,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 152,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 153,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 154,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 155,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 156,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "neutral",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": true,
+      "game_state": "KO"
     },
     {
       "frame_id": 157,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 158,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 159,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "drive",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 160,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 161,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 162,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 163,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 164,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 165,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 166,
       "p1_state": "attack_active",
-      "p2_state": "attack_active",
+      "p2_state": "jump",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 167,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 168,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 169,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 170,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 171,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 172,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 173,
-      "p1_state": "attack_active",
+      "p1_state": "jump",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 174,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 175,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 176,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 177,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 178,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 179,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 180,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 181,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 182,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 183,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 184,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 185,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 186,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 187,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 188,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 189,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 190,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 191,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 192,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 193,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 194,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 195,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 196,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 197,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 198,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     },
     {
       "frame_id": 199,
       "p1_state": "attack_active",
       "p2_state": "attack_active",
       "p1_can_act": false,
-      "p2_can_act": false
+      "p2_can_act": false,
+      "game_state": "KO"
     }
   ]
 }
